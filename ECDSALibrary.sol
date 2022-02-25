@@ -2,7 +2,7 @@
 // OpenZeppelin Contracts v4.4.1 (utils/cryptography/ECDSA.sol)
 // Added recover for arbitrary bytes by Nefture
 
-pragma solidity 0.8.11;
+pragma solidity 0.8.9;
 
 import "./StringsLibrary.sol";
 
